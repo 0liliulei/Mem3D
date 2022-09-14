@@ -85,10 +85,20 @@ To run the training script, please ensure the data is organized as following for
 
 ## Citation
 ```
-@article{zhou2021quality,
-  title={Quality-Aware Memory Network for Interactive Volumetric Image Segmentation},
+@article{zhou2022volumetric,
+  title={Volumetric memory network for interactive medical image segmentation},
   author={Zhou, Tianfei and Li, Liulei and Bredell, Gustav and Li, Jianwu and Konukoglu, Ender},
-  journal={arXiv preprint arXiv:2106.10686},
-  year={2021}
+  journal={Medical Image Analysis},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@inproceedings{zhou2021quality,
+  title={Quality-aware memory network for interactive volumetric image segmentation},
+  author={Zhou, Tianfei and Li, Liulei and Bredell, Gustav and Li, Jianwu and Konukoglu, Ender},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={560--570},
+  year={2021},
+  organization={Springer}
 }
 ```
